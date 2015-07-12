@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		055DCEB91B3EF29C000E422C /* AFCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 055DCEB81B3EF29C000E422C /* AFCollectionViewCell.m */; };
-		055DCEBC1B42D9C5000E422C /* FKRScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 055DCEBB1B42D9C5000E422C /* FKRScrollView.m */; };
 		05ECC7641B3DFD050067AF7F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 05ECC7631B3DFD050067AF7F /* main.m */; };
 		05ECC7671B3DFD050067AF7F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 05ECC7661B3DFD050067AF7F /* AppDelegate.m */; };
 		05ECC76A1B3DFD050067AF7F /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05ECC7691B3DFD050067AF7F /* MasterViewController.m */; };
@@ -33,8 +32,6 @@
 		055DCEB61B3EF16F000E422C /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		055DCEB71B3EF29C000E422C /* AFCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCollectionViewCell.h; sourceTree = "<group>"; };
 		055DCEB81B3EF29C000E422C /* AFCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCollectionViewCell.m; sourceTree = "<group>"; };
-		055DCEBA1B42D9C5000E422C /* FKRScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FKRScrollView.h; sourceTree = "<group>"; };
-		055DCEBB1B42D9C5000E422C /* FKRScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKRScrollView.m; sourceTree = "<group>"; };
 		05ECC75E1B3DFD050067AF7F /* trycatchProof.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = trycatchProof.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05ECC7621B3DFD050067AF7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05ECC7631B3DFD050067AF7F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -108,8 +105,6 @@
 				05ECC7731B3DFD050067AF7F /* LaunchScreen.xib */,
 				05ECC7611B3DFD050067AF7F /* Supporting Files */,
 				055DCEB61B3EF16F000E422C /* Constants.h */,
-				055DCEBA1B42D9C5000E422C /* FKRScrollView.h */,
-				055DCEBB1B42D9C5000E422C /* FKRScrollView.m */,
 			);
 			path = trycatchProof;
 			sourceTree = "<group>";
@@ -293,7 +288,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				05ECC7671B3DFD050067AF7F /* AppDelegate.m in Sources */,
-				055DCEBC1B42D9C5000E422C /* FKRScrollView.m in Sources */,
 				05ECC76A1B3DFD050067AF7F /* MasterViewController.m in Sources */,
 				05ECC7641B3DFD050067AF7F /* main.m in Sources */,
 				055DCEB91B3EF29C000E422C /* AFCollectionViewCell.m in Sources */,
