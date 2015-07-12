@@ -15,6 +15,11 @@
 
 @interface MasterViewController ()
 
+//TODO
+/*
+    Add pics by location with UIsegmentedbutton in the nav controller
+ */
+
 @property NSMutableArray *flickrPhotos;
 @end
 

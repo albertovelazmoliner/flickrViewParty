@@ -27,6 +27,9 @@
     self.view.backgroundColor = [UIColor blackColor];
     
     [self configureView];
+    
+    //TODO
+    // Add a better UI
 }
 
 - (void)configureView {
